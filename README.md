@@ -179,6 +179,4 @@ Los valores exactos están en [`data/kpis_por_departamento_2012.csv`](data/kpis_
 
 ---
 
-## 👤 Autor
-
-**Daniel Medina Guzmán** · Analista de Datos · [LinkedIn](...) · [GitHub](...) · <email>
+Daniel Medina Guzmán · Analista de Datos · LinkedIn · GitHub · medinaguzman.da@gmail.com
